@@ -9,7 +9,7 @@ After more than a decade as a K-12 teacher and technology integrationist, I deci
 * 🌍  I'm based in Colorado
 * 🖥️  See my portfolio at [My Portfolio Page](http://www.andrewjohnjulian.com)
 * ✉️  You can contact me at [andrewjohnjulian@gmail.com](mailto:andrewjohnjulian@gmail.com)
-* 🧠  I'm learning Action Cable to create a Chat Integrated React/Rails Application
+* 🧠  Current projects include a revision of my Portfolio and React App to interact with ChatGPT API.
 * 🤝  I'm open to collaborating on Website Development and Small Web Applications
 
 ### Skills
