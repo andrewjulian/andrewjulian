@@ -12,7 +12,7 @@ After more than a decade as a K-12 teacher and technology integrationist, I deci
 * 🧠  Current projects include a revision of my Portfolio and React App to interact with ChatGPT API.
 * 🤝  I'm open to collaborating on Website Development and Small Web Applications
 
-### Skills
+### Programming Toolkit
 
 
 <p align="left">
