@@ -7,9 +7,9 @@ Web Developer and Software Engineer
 After more than a decade as a K-12 teacher and technology integrationist, I decided that I wanted to engage more with the creation of technology and its applicable future uses.
 
 * 🌍  I'm based in Colorado
-* 🖥️  See my portfolio at [My Portfolio Page](http://www.andrewjohnjulian.com)
+* 🖥️  See my *NEW* portfolio at [My Portfolio Page](http://www.andrewjohnjulian.com)
 * ✉️  You can contact me at [andrewjohnjulian@gmail.com](mailto:andrewjohnjulian@gmail.com)
-* 🧠  Current projects include a revision of my Portfolio and React App to interact with ChatGPT API.
+* 🧠  Current projects include a React App to interact with ChatGPT API and learning Node.js
 * 🤝  I'm open to collaborating on Website Development and Small Web Applications
 
 ### Programming Toolkit
