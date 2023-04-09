@@ -7,7 +7,7 @@ Web Developer and Software Engineer
 After more than a decade as a K-12 teacher and technology integrationist, I decided that I wanted to engage more with the creation of technology and its applicable future uses.
 
 
-🔭 I’m currently working on a React App to work with an OpenAI API<br>🤝 I’m open to working on creating websites and small web applications<br>🌱 I’m currently learning Node.js<br>🖥️  See my NEW portfolio at [andrewjohnjulian.com](www.andrewjohnjulian.com)<br>✉️  You can contact me at andrewjohnjulian@gmail.com
+🔭 I’m currently working on a React App to work with an OpenAI API<br>🤝 I’m open to working on creating websites and small web applications<br>🌱 I’m currently learning Node.js<br> 🖥️  See my NEW portfolio at www.andrewjohnjulian.com <br> You can contact me at andrewjohnjulian@gmail.com
 
 
 ## 🌐 Socials:
