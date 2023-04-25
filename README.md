@@ -4,10 +4,10 @@ Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127
 Web Developer and Software Engineer
 -----------------------------------
 
-After more than a decade as a K-12 teacher and technology integrationist, I decided that I wanted to engage more with the creation of technology and its applicable future uses.
+As a software engineer, I create experiences for individual exploration and collective innovation. With a background in teaching and instructional technology, I saw first hand how the tools of the future can impact learning and I feel that the effective use and integration of technology can offer the same opportunities and access to any and all people.
 
 
-🔭 I’m currently working on a React App to work with an OpenAI API<br>🤝 I’m open to working on creating websites and small web applications<br>🌱 I’m currently learning Node.js, Express.js, and MongoDB/Mongoose <br> 🖥️  See my NEW portfolio at www.andrewjohnjulian.com <br> 📬 You can contact me at andrewjohnjulian@gmail.com
+🔭 I’m currently working on a Digital version of the Ugmonk Analogy Productivity System using a MERN application stack.<br>🤝 I’m open to working on creating websites and small web applications<br>🌱 I’m currently learning Node.js, Express.js, and MongoDB/Mongoose <br> 🖥️  See my NEW portfolio at www.andrewjohnjulian.com <br> 📬 You can contact me at andrewjohnjulian@gmail.com
 
 
 ## 🌐 Socials:
