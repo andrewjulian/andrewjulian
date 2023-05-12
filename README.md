@@ -4,7 +4,7 @@ Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127
 Web Developer and Software Engineer
 -----------------------------------
 
-A results oriented Software Engineer with entry-level experience, specializing in designing custom software solutions and driving new feature development. Proven track record of program management and continued skill development demonstrated in over a decade of education and technology instruction. Adept at identifying solutions in frontend, backend, and full stack applications in collaboration with diverse teams and stakeholders to produce high-quality products.
+A results oriented Software Engineer specializing in designing custom software solutions and driving new feature development. Proven track record of program management and continued skill development demonstrated in over a decade of education and technology instruction. Adept at identifying solutions in frontend, backend, and full stack applications in collaboration with diverse teams and stakeholders to produce high-quality products.
 
 
  🖥️  See my NEW portfolio at www.andrewjohnjulian.com <br> 🔭 I’m currently working on a digital version of the Ugmonk Analog System, created with a MERN stack. <br>🌱 I’m currently learning Node.js, Express.js, and MongoDB with Mongoose <br>🤝 I’m open to working on small or large scale projects across the entire stack. <br>📬 You can contact me at andrewjohnjulian@gmail.com
