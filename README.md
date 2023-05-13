@@ -8,7 +8,7 @@ A results oriented Software Engineer with experience in designing custom softwar
 
  🖥️  See my NEW portfolio at www.andrewjohnjulian.com 
  <br> 🔭 Currently working on the redesign of a recruiment website utilizing React and TailwindCSS 
- <br>🌱 Learning Node.js, Express.js, and MongoDB with Mongoose through creating a digital version of the Ugmonk Analogy System 
+ <br>🌱 Learning Node.js, Express.js, and MongoDB with Mongoose and creating a digital version of the Ugmonk Analogy System 
  <br>🤝 Open to working on small or large scale projects across the entire stack.
 <br>📬 Contact me at andrewjohnjulian@gmail.com
 
