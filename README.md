@@ -6,7 +6,10 @@ Web Developer and Software Engineer
 
 A results oriented Software Engineer with experience in designing custom software solutions and driving new feature development. Proven track record of program management and continued skill development demonstrated in over a decade in  education and technology instruction. Adept at identifying solutions in frontend, backend, and full stack applications in collaboration with diverse teams and stakeholders to produce high-quality products.
 
- 🖥️  See my NEW portfolio at www.andrewjohnjulian.com <br> 🔭 I’m currently working on a digital version of the Ugmonk Analog System, created with a MERN stack. <br>🌱 I’m currently learning Node.js, Express.js, and MongoDB with Mongoose <br>🤝 I’m open to working on small or large scale projects across the entire stack. <br>📬 You can contact me at andrewjohnjulian@gmail.com
+ 🖥️  See my NEW portfolio at www.andrewjohnjulian.com 
+ <br> 🔭 I am currently working on the redesign of a recruiment website utilizing React and TailwindCSS 
+ <br>🌱 I’m learning Node.js, Express.js, and MongoDB with Mongoose through creating a digital version of the Ugmonk Analogy System <br>🤝 I’m open to working on small or large scale projects across the entire stack.
+<br>📬 You can contact me at andrewjohnjulian@gmail.com
 
 
 ## 🌐 Socials:
