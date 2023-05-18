@@ -1,8 +1,7 @@
-Andrew Julian 
-=====================================================================================================================================
 
-Web Developer and Software Engineer
------------------------------------
+# Andrew Julian
+
+### Web Developer and Software Engineer
 
 A results oriented Software Engineer with experience in designing custom software solutions and driving new feature development. Proven track record of program management and continued skill development demonstrated in over a decade in  education and technology instruction. Adept at identifying solutions in frontend, backend, and full stack applications in collaboration with diverse teams and stakeholders to produce high-quality products.
 
