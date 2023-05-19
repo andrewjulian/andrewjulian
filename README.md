@@ -6,9 +6,8 @@
 A results oriented Software Engineer with experience in designing custom software solutions and driving new feature development. Proven track record of program management and continued skill development demonstrated in over a decade in  education and technology instruction. Adept at identifying solutions in frontend, backend, and full stack applications in collaboration with diverse teams and stakeholders to produce high-quality products.
 
  🖥️  View my portfolio at www.andrewjohnjulian.com 
- <br> 🔭 Currently working on the redesign of a company's recruiment website utilizing React and TailwindCSS 
+ <br>🔭 Currently working on the redesign of a company's recruiment website utilizing React and TailwindCSS 
  <br>🌱 Learning Node.js, Express.js, and MongoDB with Mongoose and creating a digital version of the Ugmonk Analogy System 
- <br>🤝 Open to working on small or large scale projects across the entire stack.
 <br>📬 Contact me at andrewjohnjulian@gmail.com with opportunities and ideas for collaboration
 
 
