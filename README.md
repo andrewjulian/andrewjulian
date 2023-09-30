@@ -4,12 +4,11 @@
 
 A results oriented Software Engineer and Founder with experience designing custom software solutions and driving new feature development. Proven track record of program management and team leadership, as well as continued skill development. Adept at identifying solutions in frontend, backend, and full stack applications in collaboration with diverse teams and stakeholders to produce high-quality products. 
 
- 🖥️ View my portfolio at www.andrewjohnjulian.com <br>
- 📬 Contact me at andrewjohnjulian@gmail.com with opportunities and ideas for collaboration<br>
- 
- ✍️ Leading the development team in creating UX collaboration platform Peer Desk <br>
- 🌱 Growing through collaboration and the utilization of AGILE methodologies for project management <br>
- 🔭 Researching implementation of cross-device design and deployment. <br>
+ 💼 View my portfolio at www.andrewjohnjulian.com <br>
+ 📬 Contact me at andrewjohnjulian@gmail.com <br>
+
+ 📱 Technical Support for Creators and Community @ [Rooms.xyz](www.rooms.xyz) by Things.inc <br>
+ 💻 Lead Developer / CTO @ [PeerDesk](www.peerdesk.app) <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrewjohnjulian) 
