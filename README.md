@@ -1,6 +1,6 @@
 # Andrew Julian
 
-### Software Engineer and Web Developer
+### Software Engineer and Technical Co-Founder
 
 A results oriented Software Engineer and Founder with experience designing custom software solutions and driving new feature development. Proven track record of program management and team leadership, as well as continued skill development. Adept at identifying solutions in frontend, backend, and full stack applications in collaboration with diverse teams and stakeholders to produce high-quality products. 
 
