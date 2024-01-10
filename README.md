@@ -8,7 +8,7 @@ A results oriented Software Engineer and Founder with experience designing custo
  📬 Contact me at andrewjohnjulian@gmail.com <br>
 
  📱 Technical Support for Creators and Community @ [Rooms.xyz](https://www.rooms.xyz) by Things.inc <br>
- 💻 Lead Developer / CTO @ [PeerDesk](https://www.peerdesk.app) <br>
+ 💻 Lead Developer / Technical Founder @ [PeerDesk](https://www.peerdesk.app) <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrewjohnjulian) 
