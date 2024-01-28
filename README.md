@@ -1,11 +1,13 @@
 # Andrew Julian
 
-### Software Engineer and Technical Co-Founder
+### Software Engineer / Technical Founder / Curriculum Developer
 
-A results oriented Software Engineer and Founder with experience designing custom software solutions and driving new feature development. Proven track record of program management and team leadership, as well as continued skill development. Adept at identifying solutions in frontend, backend, and full stack applications in collaboration with diverse teams and stakeholders to produce high-quality products. 
+Software Engineer and Educational Leadership Professional with extensive and diverse experience in K-12 Education and education-focused Curriculum and Software Development. Demonstrated success in program and product design, implementation, and management, driving educational excellence and technology integration to enhance learning environments and opportunities for learners of all ages. 
 
  💼 View my portfolio at www.andrewjohnjulian.com <br>
  📬 Contact me at andrewjohnjulian@gmail.com <br>
+
+ 💫 In Development 💫 Web Courses and Consulting Services Platform 
 
  📱 Technical Support for Creators and Community @ [Rooms.xyz](https://www.rooms.xyz) by Things.inc <br>
  💻 Lead Developer / Technical Founder @ [PeerDesk](https://www.peerdesk.app) <br>
