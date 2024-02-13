@@ -1,16 +1,19 @@
 # Andrew Julian
 
-### Software Engineer / Technical Founder / Curriculum Developer
+### Software Engineer / Technical Founder / Curriculum Developer / Educator
 
-Software Engineer and Educational Leadership Professional with extensive and diverse experience in K-12 Education and education-focused Curriculum and Software Development. Demonstrated success in program and product design, implementation, and management, driving educational excellence and technology integration to enhance learning environments and opportunities for learners of all ages. 
+Software Engineer and Education Professional with extensive and diverse experience with education-focused Software and Curriculum Development. Demonstrated success in program and product design, implementation, and management, driving educational excellence and technology integration to enhance learning environments and opportunities for learners of all ages. 
 
  💼 View my portfolio at www.andrewjohnjulian.com <br>
  📬 Contact me at andrewjohnjulian@gmail.com <br>
 
- 💫 In Development 💫 Web Courses and Consulting Services Platform 
-
- 📱 Technical Support for Creators and Community @ [Rooms.xyz](https://www.rooms.xyz) by Things.inc <br>
+ Current: <br>
  💻 Lead Developer / Technical Founder @ [PeerDesk](https://www.peerdesk.app) <br>
+ 🤖 Operational and Logistics Lead @ [All In AI](https://www.all-in-ai.org) <br>
+
+ Previous: <br>
+ 📱 Technical Support for Creators and Community @ [Rooms.xyz](https://www.rooms.xyz) by Things.inc <br>
+ 🍎 Computer Science Curriculum Developer and Instructor @ Cheyenne Mountain High School / The Colorado Springs School
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andrewjohnjulian) 
