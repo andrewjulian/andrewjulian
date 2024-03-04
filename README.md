@@ -8,7 +8,7 @@ Software Engineer and Education Professional with extensive and diverse experien
  📬 Contact me at andrewjohnjulian@gmail.com <br>
 
  Current: <br>
- 👨‍💻 Freelance Web Designer and Developer <br>
+ 👨‍💻 Freelance Web Designer and Developer @ [Summit Digital](https://www.madebysummit.com) <br>
  💻 Lead Developer / Technical Founder @ [PeerDesk](https://www.peerdesk.app) <br>
  🤖 Operational and Logistics Lead @ [All In AI](https://www.all-in-ai.org) <br>
 
