@@ -5,10 +5,11 @@
 Software Engineer and Education Professional with extensive and diverse experience with education-focused Software and Curriculum Development. Demonstrated success in program and product design, implementation, and management, driving educational excellence and technology integration to enhance learning environments and opportunities for learners of all ages. 
 
  💼 View my website at www.andrewjohnjulian.com <br>
+ 👨‍💻 Visit my agency website @ [Summit Digital](https://www.madebysummit.com) <br>
  📬 Contact me at andrewjohnjulian@gmail.com <br>
 
  Current: <br>
- 👨‍💻 Freelance Web Designer and Developer @ [Summit Digital](https://www.madebysummit.com) <br>
+ 
  💻 Lead Developer / Technical Founder @ [PeerDesk](https://www.peerdesk.app) <br>
  🤖 Operational and Logistics Lead @ [All In AI](https://www.all-in-ai.org) <br>
 
