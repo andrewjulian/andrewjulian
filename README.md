@@ -1,6 +1,6 @@
 # Andrew Julian
 
-### Software Engineer / Technical Founder / Curriculum Developer / Educator
+Building Tech for People
 
 Software Engineer and Education Professional with extensive and diverse experience with education-focused Software and Curriculum Development. Demonstrated success in program and product design, implementation, and management, driving educational excellence and technology integration to enhance learning environments and opportunities for learners of all ages. 
 
