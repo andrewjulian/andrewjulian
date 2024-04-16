@@ -1,18 +1,14 @@
 # Andrew Julian
 
- 💼 View my website at www.andrewjohnjulian.com <br>
- 👨‍💻 Visit my agency website @ [Summit Digital](https://www.madebysummit.com) <br>
+ 💼 Check out my personal website @ www.andrewjohnjulian.com <br>
+ 🏔️ Visit my agency website @ [Summit Digital](https://www.madebysummit.com) <br>
  📬 Contact me at andrewjohnjulian@gmail.com <br>
 
- Current: <br>
- 
+ My Work <br>
  💻 Founding Engineer @ [PeerDesk](https://www.peerdesk.app) <br>
- 🤖 Operation and Logistics @ [All In AI](https://www.all-in-ai.org) <br>
-
- Previous: <br>
  📱 Instructional Content Creation and Community Support @ [Rooms.xyz](https://www.rooms.xyz) by Things.inc <br>
- 🍎 Computer Science Curriculum Developer and Instructor 
- 🖥️ Digital Learning and Implementation Specialist 
+ 🍎 Computer Science Curriculum Developer and Instructor <br>
+ 🖥️ Digital Learning and Implementation Specialist <br>
  🔬 Science Teacher
 
 ## 🌐 Socials:
