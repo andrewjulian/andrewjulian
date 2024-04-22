@@ -4,7 +4,7 @@
  🏔️ Visit my agency website @ [Summit Digital](https://www.madebysummit.com) <br>
  📬 Contact me at andrewjohnjulian@gmail.com <br>
 
- My Work <br>
+ My Previous Work <br>
  💻 Founding Engineer @ [PeerDesk](https://www.peerdesk.app) <br>
  📱 Instructional Content Creation and Community Support @ [Rooms.xyz](https://www.rooms.xyz) by Things.inc <br>
  🍎 Computer Science Curriculum Developer and Instructor <br>
