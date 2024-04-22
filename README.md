@@ -5,7 +5,7 @@
  📬 Contact me at andrewjohnjulian@gmail.com <br>
 
  My Previous Work <br>
- 💻 Founding Engineer @ PeerDesk <br>
+ 💻 Lead Engineer / CTO @ PeerDesk <br>
  📱 Instructional Content Creation and Community Support @ [Rooms.xyz](https://www.rooms.xyz) by Things.inc <br>
  🍎 Computer Science Curriculum Developer and Instructor <br>
  🖥️ Digital Learning and Implementation Specialist <br>
