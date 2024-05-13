@@ -1,7 +1,7 @@
 # Andrew Julian
 
  💼 Check out my personal website @ www.andrewjohnjulian.com <br>
- 🏔️ Visit my agency website @ [Summit Digital](https://www.madebysummit.com) <br>
+ 🏔️ Visit my agency website @ [Summit Creative Studio](https://www.madebysummit.com) <br>
  📬 Contact me at andrewjohnjulian@gmail.com <br>
 
  My Previous Work <br>
