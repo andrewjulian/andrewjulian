@@ -1,6 +1,6 @@
 # Andrew Julian
 
- 💼 Check out my website @ www.andrewjohnjulian.come <br>
+ 💼 Check out my website @ www.andrewjohnjulian.com <br>
  📬 Contact me at andrewjohnjulian@gmail.com <br>
 
  My Previous Work <br>
