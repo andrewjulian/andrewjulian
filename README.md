@@ -1,7 +1,6 @@
 # Andrew Julian
 
- 💼 Check out my personal website @ www.andrewjulian.framer.website <br>
- 🏔️ Visit my agency website @ [MadeBySummit](https://www.madebysummit.com) <br>
+ 💼 Check out my website @ www.andrewjohnjulian.come <br>
  📬 Contact me at andrewjohnjulian@gmail.com <br>
 
  My Previous Work <br>
